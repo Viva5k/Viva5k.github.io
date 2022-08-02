@@ -10,7 +10,7 @@
 .box {
   border: 5px solid ;
   border-radius: 5px;
-  bbackground-color var(--main-color) ;
+  bbackground-color: var(--main-color);
   text-align: center;
 }
 .image_box{
