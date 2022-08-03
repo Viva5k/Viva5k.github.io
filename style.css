@@ -1,11 +1,9 @@
-@import "color.css";
-
 
 .header{
   display: block;
   width: 100px;
   height: 100px;
-  background-color: var(--bg_color);
+  background-color: red;
 }
 .wrapper{
   display: grid;
@@ -17,7 +15,7 @@
 .box {
   border: 5px solid ;
   border-radius: 5px;
-  bbackground-color: var(--main_color);
+  bbackground-color: red;
   text-align: center;
 }
 .image_box{
