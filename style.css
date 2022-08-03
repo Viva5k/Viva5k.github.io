@@ -1,5 +1,12 @@
 @import "color.css";
 
+
+.header{
+  display: block;
+  width: 100px;
+  height: 100%;
+  background-color: var(--bg_color);
+}
 .wrapper{
   display: grid;
   grid-template-columns: repeat(2,1fr);
@@ -10,7 +17,7 @@
 .box {
   border: 5px solid ;
   border-radius: 5px;
-  bbackground-color: var(--main-color);
+  bbackground-color: var(--main_color);
   text-align: center;
 }
 .image_box{
