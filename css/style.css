@@ -5,11 +5,6 @@
   height: 100px;
   background-color: green;
 }
-.header .logo{
-  height: 50px;
-  width: auto;
-  background-color: green;
-}
 .wrapper{
   display: grid;
   grid-template-columns: repeat(2,1fr);
