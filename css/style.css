@@ -8,6 +8,7 @@
 .header .logo{
   height: 50px;
   width: auto;
+  background-color: green;
 }
 .header .logo .img{
   height: 50px;
