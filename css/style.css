@@ -5,6 +5,10 @@
   height: 100px;
   background-color: red;
 }
+.header .logo{
+  height: 50px;
+  width: auto;
+}
 .wrapper{
   display: grid;
   grid-template-columns: repeat(2,1fr);
