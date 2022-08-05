@@ -3,16 +3,11 @@
   display: block;
   width: 100px;
   height: 100px;
-  background-color: red;
 }
 .header .logo{
   height: 50px;
   width: auto;
   background-color: green;
-}
-.header .logo .img{
-  height: 50px;
-  width: auto;
 }
 .wrapper{
   display: grid;
