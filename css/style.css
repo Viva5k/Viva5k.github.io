@@ -5,7 +5,7 @@
   height: 100px;
   background-color: red;
 }
-.header .logo{
+.header .logo .img{
   height: 50px;
   width: auto;
 }
