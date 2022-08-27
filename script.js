@@ -43,7 +43,7 @@ const addBlocInfo  = () => {
   infoBlock.innerHTML = blockCode;
   main.appendChild(infoBlock);
 }
-
+// подключение при загрузке страници
 document.addEventListener('DOMContentLoaded',() => {
   initApp();
   addBlocInfo();
