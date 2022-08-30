@@ -1,4 +1,4 @@
-// перетаскивание файла
+// перетаскивание файлаь
 const initApp = () => {
   const dropArea = document.querySelector('.wrap_drop');
   const active = () => dropArea.classList.add("border_green");
