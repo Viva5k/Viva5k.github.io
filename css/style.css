@@ -7,7 +7,12 @@ main{
   background-color: red;
 }
 
-
+.file_wrap{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  z-index: 1;
+}
 
 .wrap_drop{
   cursor: pointer;
